@@ -1,0 +1,229 @@
+.App-logo{
+  position:relative;
+  height:100px;
+
+}
+.navbar1{
+  position: relative;
+  top:10px;
+  height:40px;
+  background-color:#f57c00;
+}
+
+.line1{
+position: relative;
+  height: 35px;
+  width: 5px;
+  background-color: white;
+  display: inline-block;
+}
+.search{
+  position: relative;
+  top:30px;
+}
+.table1{
+position: relative;
+top:50px;
+}
+
+.line2{
+  position: relative;
+    height: 35px;
+    width: 2px;
+    background-color: white;
+    display: inline-block;
+  }
+  
+  .bord{
+    border: 1px solid black;
+  }
+  .bord lable{
+    position: relative;
+    background-color:#e57373;
+    color:black;
+    padding:3.5px;
+    left:-15px;
+  }
+  .int1 input{
+    
+    position: relative;
+    width:92%;
+  }
+  .int66{
+    position: absolute;
+    top:0px;
+    left:310px;
+  
+    
+  }
+  .int2 {
+    position: relative;
+    width:25%;
+    margin-right: 20px;
+  }
+  .int3{
+    position: relative;
+    width:13%;
+    margin-right: 20px;
+  }
+  .int4{
+    position: relative;
+    width:15%;
+    padding-left:10px;
+    height: 18px; 
+  
+  }
+  .int5{
+    width:45%;
+    margin-right: 20px;
+  }
+  .int7{
+   width:36%;
+   margin-right: 20px;
+  }
+  .int8{
+    width:26%;
+  }
+  .int9{
+    width:35%;
+    margin-right: 20px;    
+  }
+  .int10{
+    width:22%;
+      
+  }
+  .int11{
+    border:none;
+    background: transparent;
+    position: relative;
+    width:45%;
+    margin-right: 20px; 
+  }
+  .int12{
+    border:none;
+    background: transparent;
+    position: relative;
+    width:95%;
+    text-transform: capitalize;
+    margin-right: -90px;
+   
+  }
+  .int6{
+    width:33%;
+  }
+  .bord input{
+    border:none;
+  }
+  .bord input:focus{
+   outline: none;
+   border:black;
+  }
+  .set1{
+    
+  margin-left:200px;
+  }
+  .set2{
+    margin-left:100px;
+  }
+  .set3{
+    margin-left: 330px;
+  }
+  .set4{
+    margin-left: 270px;
+  }
+  .set5{
+    margin-left:263px;
+  }
+  .set6{
+    position: relative;
+    margin: 10px;
+  }
+  .container1{
+    border:1px solid black;
+    position: relative;
+    top: 50px;
+    text-align: center;
+    color:#00bcd4;
+    font-size: 18px;
+  }
+
+  .btn2{
+
+     width: 80px; 
+    position: relative;
+    margin-left: 330px;
+    margin-top: 20px;
+
+  }
+  .int78{
+    position: absolute;
+     top:0px;
+     left:100px;
+     height: 5px;
+      
+  }
+  
+  .btn1{
+    position: relative;
+    margin-left: -15px;
+    background: #f57c00;
+    width:104.2%;
+    color:white;
+    border: none;
+    outline:none;
+  }
+  .tbnone{
+    border-top: none;
+  }
+  .viewtable{
+    position: relative;
+    margin:100px;  
+  }
+  
+  
+  .pager i{
+    position: relative;
+    left:15px;
+  }
+  .pager1 i{
+    position: relative;
+    right:8px;
+  }
+  
+
+.header1 li{
+   text-decoration: bold;
+  padding: 30px;
+  display: inline;
+  color:white;
+  position: relative;
+  top:10px;
+  font-size:18px;
+}
+
+  .clients{
+    text-align:center;
+    position: relative;
+    top:60px;
+  }
+
+.search input{
+  width: 550px;
+  padding-left: 90px;
+  padding-right: 35px;
+}
+.search button{
+     
+    position: relative;
+    left: 75px;
+    padding-left:10px;
+    padding-right: 10px;
+}
+.search span{
+  position: relative;
+  height: 28px;
+  width: 30px;
+  padding: 5px;
+  right: 30px;
+  background-color: #f57c00;
+}
